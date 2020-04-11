@@ -1,8 +1,7 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device j5nltexx
-%define rpm_device j5lte
+%define device j5nlte
 %define vendor samsung
 
 %define vendor_pretty Samsung
